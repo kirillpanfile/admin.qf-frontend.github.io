@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkqf_frontend"]=self["webpackChunkqf_frontend"]||[]).push([[411],{860:(n,r)=>{r.Z=(n,r)=>{const e=n.__vccOpts||n;for(const[t,c]of r)e[t]=c;return e}},663:(n,r,e)=>{e.r(r),e.d(r,{default:()=>u});var t=e(0);function c(n,r){const e=(0,t.up)("router-view");return(0,t.wg)(),(0,t.j4)(e)}var f=e(860);const o={},s=(0,f.Z)(o,[["render",c]]),u=s}}]);
+//# sourceMappingURL=AdminPosts.966d71f8.js.map
